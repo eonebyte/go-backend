@@ -14,3 +14,6 @@ Repository ini menyediakan kerangka dasar yang sudah diatur dengan baik untuk pe
 
 Fitur Utama :
 Authentication
+
+Notes :
+1. Secret Key disimpan pada env local server, contoh misal env windows
